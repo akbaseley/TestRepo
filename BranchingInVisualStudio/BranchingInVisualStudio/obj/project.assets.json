@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\GitHubBranchingEx\\BranchingInVisualStudio\\BranchingInVisualStudio\\BranchingInVisualStudio.csproj",
+      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\TestRepo\\BranchingInVisualStudio\\BranchingInVisualStudio\\BranchingInVisualStudio.csproj",
       "projectName": "BranchingInVisualStudio",
-      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\GitHubBranchingEx\\BranchingInVisualStudio\\BranchingInVisualStudio\\BranchingInVisualStudio.csproj",
+      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\TestRepo\\BranchingInVisualStudio\\BranchingInVisualStudio\\BranchingInVisualStudio.csproj",
       "packagesPath": "C:\\Users\\grand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\GitHubBranchingEx\\BranchingInVisualStudio\\BranchingInVisualStudio\\obj\\",
+      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\TestRepo\\BranchingInVisualStudio\\BranchingInVisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
