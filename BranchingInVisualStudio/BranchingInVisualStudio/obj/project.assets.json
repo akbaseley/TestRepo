@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\grand\\.nuget\\packages\\": {},
+    "C:\\Users\\Stevo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\GitHubBranchingEx\\BranchingInVisualStudio\\BranchingInVisualStudio\\BranchingInVisualStudio.csproj",
+      "projectUniqueName": "X:\\Users\\Stevo\\Desktop\\TestRepo\\BranchingInVisualStudio\\BranchingInVisualStudio\\BranchingInVisualStudio.csproj",
       "projectName": "BranchingInVisualStudio",
-      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\GitHubBranchingEx\\BranchingInVisualStudio\\BranchingInVisualStudio\\BranchingInVisualStudio.csproj",
-      "packagesPath": "C:\\Users\\grand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\GitHubBranchingEx\\BranchingInVisualStudio\\BranchingInVisualStudio\\obj\\",
+      "projectPath": "X:\\Users\\Stevo\\Desktop\\TestRepo\\BranchingInVisualStudio\\BranchingInVisualStudio\\BranchingInVisualStudio.csproj",
+      "packagesPath": "C:\\Users\\Stevo\\.nuget\\packages\\",
+      "outputPath": "X:\\Users\\Stevo\\Desktop\\TestRepo\\BranchingInVisualStudio\\BranchingInVisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\grand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Stevo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
